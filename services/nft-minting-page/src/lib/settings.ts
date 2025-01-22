@@ -9,6 +9,6 @@ export const config = {
     contractAddress: process.env.NEXT_PUBLIC_THIRDWEB_CONTRACT_ADDRESS,
     chainId: process.env.NEXT_PUBLIC_THIRDWEB_CHAIN_ID,
     tokenId: process.env.NEXT_PUBLIC_THIRDWEB_TOKEN_ID,
-    title: process.env.NEXT_PUBLIC_TITLE,
-    description: process.env.NEXT_PUBLIC_DESCRIPTION
+    title: process.env.NEXT_PUBLIC_MINT_TITLE,
+    description: process.env.NEXT_PUBLIC_MINT_DESCRIPTION
 };
