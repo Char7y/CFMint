@@ -1,0 +1,13 @@
+{
+  "name": "thirdweb-nft-minting-page",
+  "description": "Single NFT minting page powered by thirdweb.",
+  "version": "0.0.1",
+  "author": "Waren Gonzaga",
+  "demo": "",
+  "template": "",
+  "discussion": "",
+  "repository": "https://github.com/warengonzaga/thirdweb-nft-minting-page-railway",
+  "support": "https://github.com/warengonzaga/thirdweb-nft-minting-page-railway/issues",
+  "documentation": "",
+  "website": ""
+}
