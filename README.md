@@ -2,7 +2,7 @@
 
 Single page application for minting NFTs and Cryptocurrencies powered by thirdweb.
 
-<!-- [![Deploy on Railway](https://railway.com/button.svg)](https://railway.app/template/) -->
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/template/xyxkOh?referralCode=KN9JqT)
 
 ## Template
 
