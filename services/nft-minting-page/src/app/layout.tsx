@@ -9,8 +9,11 @@ import { mintTitle, mintDescription } from "@/lib/constants";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-    title: mintTitle,
-    description: mintDescription,
+	title: mintTitle,
+	description: mintDescription,
+	icons: {
+		icon: "/icon.svg", // todo: add ability to set icon from env file
+	},
 };
 
 export default function RootLayout({
