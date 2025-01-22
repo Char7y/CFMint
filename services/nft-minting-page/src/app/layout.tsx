@@ -4,17 +4,16 @@ import "./globals.css";
 import { ThirdwebProvider } from "thirdweb/react";
 import { Toaster } from "sonner";
 import { ToastProvider } from "@/components/ui/toast";
-import { mintTitle, mintDescription } from "@/lib/constants";
+import { mintTitle, mintDescription, mintIcon } from "@/lib/constants";
 
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
 	title: mintTitle,
 	description: mintDescription,
-	icons: {
-		icon: "/icon.svg", // todo: add ability to set icon from env file
-	},
 };
+
+const favicon = mintIcon;
 
 export default function RootLayout({
 	children,
@@ -23,6 +22,9 @@ export default function RootLayout({
 }>) {
 	return (
 		<html lang="en">
+			<head>
+        <link rel="icon" href={favicon} />
+      </head>
 			<body className={inter.className}>
 				<ToastProvider>
 					<Toaster position="bottom-center" />
