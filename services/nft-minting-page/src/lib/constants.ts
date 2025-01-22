@@ -3,8 +3,8 @@ import { config } from './settings';
 /**
  * Mint title and description
  */
-export const mintTitle = config.title;
-export const mintDescription = config.description;
+export const mintTitle = config.title || "NFT Minting Page";
+export const mintDescription = config.description || "Mint NFTs and Cryptocurrency powered by thirdweb.";
 
 /**
  * NFT contract address from environment variables or fallback
