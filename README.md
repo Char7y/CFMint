@@ -4,6 +4,20 @@ Single page application for minting NFTs and Cryptocurrencies powered by thirdwe
 
 [![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/template/xyxkOh?referralCode=KN9JqT)
 
+## Live Demo
+
+![Demo](assets/demo.png)
+
+Check out the live demo here: <https://nft-minting-page.up.railway.app>
+
+## Features
+
+- Mint NFTs and Cryptocurrencies
+- Connect wallet or social media accounts
+- Supports ERC-721, ERC-1155, and ERC-20 token standards
+- Customizable upon deployment via environment variables
+- Powered by thirdweb SDK
+
 ## Template
 
 This is the **official community Railway template** for self-hosting your own NFT & Cryptocurrency Minting page, maintained by the thirdweb community team. This template deploys a customized version of the [NFT Minting Page](https://github.com/thirdweb-example/nft-minting-template) from the [thirdweb Examples](https://github.om/thirdweb-example) repository. It provides a single-page application for minting NFTs and Cryptocurrencies, powered by thirdweb.

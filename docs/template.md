@@ -1,5 +1,5 @@
-<a rel="noopener noreferrer" href="https://thirdweb.com/engine">
-  <img src="https://raw.githubusercontent.com/thirdweb-dev/.github/main/header-image.png" alt="thirdweb Engine banner" width="100%" height="auto" style="border-radius: 10px">
+<a rel="noopener noreferrer" href="https://thirdweb.com">
+  <img src="https://raw.githubusercontent.com/thirdweb-dev/.github/main/header-image.png" alt="thirdweb banner" width="100%" height="auto" style="border-radius: 10px">
 </a>
 
 ## Template
@@ -14,6 +14,20 @@ This is the **official community Railway template** for self-hosting your own NF
 ## Overview
 
 NFT Minting Page is a single-page application built with Next.js that allows users to mint NFTs and Cryptocurrencies by connecting their wallet or social media accounts. Utilizing the thirdweb SDK, it supports interaction with any EVM-compatible blockchain and supports ERC-721, ERC-1155, and ERC-20 token standards. The application is fully customizable and can be seamlessly integrated into any website.
+
+## Live Demo
+
+![Demo](https://raw.githubusercontent.com/warengonzaga/thirdweb-nft-minting-page-railway/main/assets/demo.png)
+
+Check out the live demo here: <https://nft-minting-page.up.railway.app>
+
+## Features
+
+- Mint NFTs and Cryptocurrencies
+- Connect wallet or social media accounts
+- Supports ERC-721, ERC-1155, and ERC-20 token standards
+- Customizable upon deployment via environment variables
+- Powered by thirdweb SDK
 
 ## Support
 
