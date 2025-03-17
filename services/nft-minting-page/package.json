@@ -1,9 +1,9 @@
 {
-  "name": "thirdweb-nft-minting-page",
+  "name": "CFMint",
   "version": "0.0.2",
   "private": true,
   "author": {
-    "name": "Waren Gonzaga"
+    "name": "Waren Gonzaga - Forked thirdweb-nft-minting-page-railway"
   },
   "license": "MIT",
   "scripts": {
